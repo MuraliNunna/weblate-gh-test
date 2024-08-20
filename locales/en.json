@@ -1,5 +1,6 @@
 {
     "greeting": "Hello",
     "farewell": "Goodbye",
-    "hello_2": "Hello"
+    "hello_2": "Hello",
+    "farewell_2": "Goodbye",
 }
