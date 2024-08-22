@@ -4,5 +4,9 @@
     "hello_2": "Hello",
     "farewell_2": "Goodbye",
     "hello_murali": "Hello Murali",
-    "hello_3": "Hello"
+    "hello_3": "Hello",
+    "errors": {
+        "warning": "Please check these warnings",
+        "error": "Please check this error"
+    }
 }
