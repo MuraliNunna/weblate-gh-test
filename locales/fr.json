@@ -5,6 +5,7 @@
     "farewell_2": "Au revoir",
     "hello_murali": "Bonjour Murali",
     "hello_3": "Bonjour",
+    "auto_logout_warning": "Déconnexion automatique en {{sec}} secondes.",
     "errors": {
         "warning": "Veuillez vérifier ces avertissements",
         "error": "Veuillez vérifier cette erreur",
