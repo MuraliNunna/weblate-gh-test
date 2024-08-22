@@ -1,5 +1,8 @@
 {
     "greeting": "Bonjour",
     "farewell": "Au revoir",
-    "hello_2": "Bonjour"
+    "hello_2": "Bonjour",
+    "farewell_2": "Au revoir",
+    "hello_murali": "Bonjour Murali",
+    "hello_3": "Bonjour"
 }
