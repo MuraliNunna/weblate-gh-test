@@ -2,6 +2,9 @@
     "greeting": "Bonjour",
     "farewell": "Au revoir",
     "hello_2": "Bonjour",
+    "farewell_2": "Au revoir",
+    "hello_murali": "Bonjour Murali",
+    "hello_3": "Bonjour",
     "errors": {
         "warning": "Veuillez vérifier ces avertissements",
         "error": "Veuillez vérifier cette erreur"
