@@ -7,6 +7,7 @@
     "hello_3": "Hello",
     "errors": {
         "warning": "Please check these warnings",
-        "error": "Please check this error"
+        "error": "Please check this error",
+        "info": "Please check this info"
     }
 }
