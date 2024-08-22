@@ -8,6 +8,6 @@
     "errors": {
         "warning": "Veuillez vérifier ces avertissements",
         "error": "Veuillez vérifier cette erreur",
-        "info": "Please check this info"
+        "info": "Veuillez vérifier ces informations"
     }
 }
