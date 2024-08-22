@@ -1,5 +1,9 @@
 {
     "farewell": "Auf Wiedersehen",
     "greeting": "Hallo",
-    "hello_2": "Hallo"
+    "hello_2": "Hallo",
+    "errors": {
+        "error": "Bitte überprüfen Sie diesen Fehler",
+        "warning": "Bitte überprüfen Sie diese Warnungen"
+    }
 }
