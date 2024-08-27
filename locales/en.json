@@ -9,6 +9,7 @@
     "errors": {
         "warning": "Please check these warnings",
         "error": "Please check this error",
-        "info": "Please check this info"
+        "info": "Please check this info",
+        "success": "Please check this success message"
     }
 }
