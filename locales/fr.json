@@ -9,6 +9,8 @@
     "errors": {
         "warning": "Veuillez vérifier ces avertissements",
         "error": "Veuillez vérifier cette erreur",
-        "info": "Veuillez vérifier ces informations"
+        "info": "Veuillez vérifier ces informations",
+        "success": "Veuillez vérifier ce message de succès",
+        "success2": "Veuillez vérifier ce message de succès"
     }
 }
