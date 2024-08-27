@@ -10,6 +10,7 @@
         "warning": "Please check these warnings",
         "error": "Please check this error",
         "info": "Please check this info",
-        "success": "Please check this success message"
+        "success": "Please check this success message",
+        "success2": "Please check this success message",
     }
 }
