@@ -10,6 +10,7 @@
         "warning": "Bitte überprüfen Sie diese Warnungen",
         "error": "Bitte überprüfen Sie diesen Fehler",
         "info": "Bitte überprüfen Sie diese Informationen",
-        "success": "Bitte überprüfen Sie diese Erfolgsnachricht"
+        "success": "Bitte überprüfen Sie diese Erfolgsnachricht",
+        "success2": "Bitte überprüfen Sie diese Erfolgsnachricht"
     }
 }
