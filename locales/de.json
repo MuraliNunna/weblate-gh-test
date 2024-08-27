@@ -5,9 +5,11 @@
     "farewell_2": "Auf Wiedersehen",
     "hello_murali": "Hallo Murali",
     "hello_3": "Hallo",
+    "auto_logout_warning": "Automatische Abmeldung in {{sec}} Sekunden.",
     "errors": {
         "warning": "Bitte überprüfen Sie diese Warnungen",
         "error": "Bitte überprüfen Sie diesen Fehler",
-        "info": "Bitte überprüfen Sie diese Informationen"
+        "info": "Bitte überprüfen Sie diese Informationen",
+        "success": "Please check this success message"
     }
 }
